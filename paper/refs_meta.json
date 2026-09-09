@@ -1,0 +1,463 @@
+{
+ "2402.06363": {
+  "title": "StruQ: Defending Against Prompt Injection with Structured Queries",
+  "authors": [
+   "Sizhe Chen",
+   "Julien Piet",
+   "Chawin Sitawarin",
+   "David Wagner"
+  ],
+  "year": "2024"
+ },
+ "2406.13352": {
+  "title": "AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents",
+  "authors": [
+   "Edoardo Debenedetti",
+   "Jie Zhang",
+   "Mislav Balunovi\u0107",
+   "Luca Beurer-Kellner",
+   "Marc Fischer",
+   "Florian Tram\u00e8r"
+  ],
+  "year": "2024"
+ },
+ "2402.07867": {
+  "title": "PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models",
+  "authors": [
+   "Wei Zou",
+   "Runpeng Geng",
+   "Binghui Wang",
+   "Jinyuan Jia"
+  ],
+  "year": "2024"
+ },
+ "2312.14197": {
+  "title": "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models",
+  "authors": [
+   "Jingwei Yi",
+   "Yueqi Xie",
+   "Bin Zhu",
+   "Emre Kiciman",
+   "Guangzhong Sun",
+   "Xing Xie",
+   "Fangzhao Wu"
+  ],
+  "year": "2023"
+ },
+ "2509.14285": {
+  "title": "A Multi-Agent LLM Defense Pipeline Against Prompt Injection Attacks",
+  "authors": [
+   "S M Asif Hossain",
+   "Ruksat Khan Shayoni",
+   "Mohd Ruhul Ameen",
+   "Akif Islam",
+   "M. F. Mridha",
+   "Jungpil Shin"
+  ],
+  "year": "2025"
+ },
+ "2302.12173": {
+  "title": "Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection",
+  "authors": [
+   "Kai Greshake",
+   "Sahar Abdelnabi",
+   "Shailesh Mishra",
+   "Christoph Endres",
+   "Thorsten Holz",
+   "Mario Fritz"
+  ],
+  "year": "2023"
+ },
+ "2403.14720": {
+  "title": "Defending Against Indirect Prompt Injection Attacks With Spotlighting",
+  "authors": [
+   "Keegan Hines",
+   "Gary Lopez",
+   "Matthew Hall",
+   "Federico Zarfati",
+   "Yonatan Zunger",
+   "Emre Kiciman"
+  ],
+  "year": "2024"
+ },
+ "2405.15556": {
+  "title": "Certifiably Robust RAG against Retrieval Corruption",
+  "authors": [
+   "Chong Xiang",
+   "Tong Wu",
+   "Zexuan Zhong",
+   "David Wagner",
+   "Danqi Chen",
+   "Prateek Mittal"
+  ],
+  "year": "2024"
+ },
+ "2408.03554": {
+  "title": "Empirical Analysis of Large Vision-Language Models against Goal Hijacking via Visual Prompt Injection",
+  "authors": [
+   "Subaru Kimura",
+   "Ryota Tanaka",
+   "Shumpei Miyawaki",
+   "Jun Suzuki",
+   "Keisuke Sakaguchi"
+  ],
+  "year": "2024"
+ },
+ "2605.00911": {
+  "title": "When Good OCR Is Not Enough: Benchmarking OCR Robustness for Retrieval-Augmented Generation",
+  "authors": [
+   "Lin Sun",
+   "Wang Dexian",
+   "Jingang Huang",
+   "Linglin Zhang",
+   "Change Jia",
+   "Zhengwei Cheng",
+   "Xiangzheng Zhang"
+  ],
+  "year": "2026"
+ },
+ "2604.25562": {
+  "title": "SnapGuard: Lightweight Prompt Injection Detection for Screenshot-Based Web Agents",
+  "authors": [
+   "Mengyao Du",
+   "Han Fang",
+   "Haokai Ma",
+   "Jiahao Chen",
+   "Kai Xu",
+   "Quanjun Yin",
+   "Ee-Chien Chang"
+  ],
+  "year": "2026"
+ },
+ "2505.11015": {
+  "title": "WildDoc: How Far Are We from Achieving Comprehensive and Robust Document Understanding in the Wild?",
+  "authors": [
+   "An-Lan Wang",
+   "Jingqun Tang",
+   "Liao Lei",
+   "Hao Feng",
+   "Qi Liu",
+   "Xiang Fei",
+   "Jinghui Lu",
+   "Han Wang",
+   "Weiwei Liu",
+   "Hao Liu",
+   "Yuliang Liu",
+   "Xiang Bai",
+   "Can Huang"
+  ],
+  "year": "2025"
+ },
+ "2506.20168": {
+  "title": "Seeing is Believing? Mitigating OCR Hallucinations in Multimodal Large Language Models",
+  "authors": [
+   "Zhentao He",
+   "Can Zhang",
+   "Ziheng Wu",
+   "Zhenghao Chen",
+   "Yufei Zhan",
+   "Yifan Li",
+   "Zhao Zhang",
+   "Xian Wang",
+   "Minghui Qiu"
+  ],
+  "year": "2025"
+ },
+ "2508.17884": {
+  "title": "PhantomLint: Principled Detection of Hidden LLM Prompts in Structured Documents",
+  "authors": [
+   "Toby Murray"
+  ],
+  "year": "2025"
+ },
+ "2307.10490": {
+  "title": "Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs",
+  "authors": [
+   "Eugene Bagdasaryan",
+   "Tsung-Yin Hsieh",
+   "Ben Nassi",
+   "Vitaly Shmatikov"
+  ],
+  "year": "2023"
+ },
+ "2505.16957": {
+  "title": "Invisible Prompts, Visible Threats: Malicious Font Injection in External Resources for Large Language Models",
+  "authors": [
+   "Junjie Xiong",
+   "Changjia Zhu",
+   "Shuhang Lin",
+   "Chong Zhang",
+   "Yongfeng Zhang",
+   "Yao Liu",
+   "Lingyao Li"
+  ],
+  "year": "2025"
+ },
+ "2604.23887": {
+  "title": "Evaluation of Prompt Injection Defenses in Large Language Models",
+  "authors": [
+   "Priyal Deep",
+   "Shane Emmons",
+   "Amy Fox",
+   "Kyle Bacon",
+   "Kelley McAllister",
+   "Peter Ortiz",
+   "Krisztian Flautner"
+  ],
+  "year": "2026"
+ },
+ "2510.04257": {
+  "title": "AgentTypo: Adaptive Typographic Prompt Injection Attacks against Black-box Multimodal Agents",
+  "authors": [
+   "Yanjie Li",
+   "Yiming Cao",
+   "Dong Wang",
+   "Bin Xiao"
+  ],
+  "year": "2025"
+ },
+ "2601.17383": {
+  "title": "Physical Prompt Injection Attacks on Large Vision-Language Models",
+  "authors": [
+   "Chen Ling",
+   "Kai Hu",
+   "Hangcheng Liu",
+   "Xingshuo Han",
+   "Tianwei Zhang",
+   "Changhai Ou"
+  ],
+  "year": "2026"
+ },
+ "2309.00236": {
+  "title": "Image Hijacks: Adversarial Images can Control Generative Models at Runtime",
+  "authors": [
+   "Luke Bailey",
+   "Euan Ong",
+   "Stuart Russell",
+   "Scott Emmons"
+  ],
+  "year": "2023"
+ },
+ "2306.05499": {
+  "title": "Prompt Injection attack against LLM-integrated Applications",
+  "authors": [
+   "Yi Liu",
+   "Gelei Deng",
+   "Yuekang Li",
+   "Kailong Wang",
+   "Zihao Wang",
+   "Xiaofeng Wang",
+   "Tianwei Zhang",
+   "Yepang Liu",
+   "Haoyu Wang",
+   "Yan Zheng",
+   "Leo Yu Zhang",
+   "Yang Liu"
+  ],
+  "year": "2023"
+ },
+ "2501.15145": {
+  "title": "PromptShield: Deployable Detection for Prompt Injection Attacks",
+  "authors": [
+   "Dennis Jacob",
+   "Hend Alzahrani",
+   "Zhanhao Hu",
+   "Basel Alomair",
+   "David Wagner"
+  ],
+  "year": "2025"
+ },
+ "2510.09849": {
+  "title": "Text Prompt Injection of Vision Language Models",
+  "authors": [
+   "Ruizhe Zhu"
+  ],
+  "year": "2025"
+ },
+ "2305.07895": {
+  "title": "OCRBench: On the Hidden Mystery of OCR in Large Multimodal Models",
+  "authors": [
+   "Yuliang Liu",
+   "Zhang Li",
+   "Mingxin Huang",
+   "Biao Yang",
+   "Wenwen Yu",
+   "Chunyuan Li",
+   "Xucheng Yin",
+   "Cheng-lin Liu",
+   "Lianwen Jin",
+   "Xiang Bai"
+  ],
+  "year": "2023"
+ },
+ "2311.05608": {
+  "title": "FigStep: Jailbreaking Large Vision-Language Models via Typographic Visual Prompts",
+  "authors": [
+   "Yichen Gong",
+   "Delong Ran",
+   "Jinyuan Liu",
+   "Conglei Wang",
+   "Tianshuo Cong",
+   "Anyu Wang",
+   "Sisi Duan",
+   "Xiaoyun Wang"
+  ],
+  "year": "2023"
+ },
+ "2410.22770": {
+  "title": "InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models",
+  "authors": [
+   "Hao Li",
+   "Xiaogeng Liu"
+  ],
+  "year": "2024"
+ },
+ "2512.04895": {
+  "title": "Chameleon: Adaptive Adversarial Agents for Scaling-Based Visual Prompt Injection in Multimodal AI Systems",
+  "authors": [
+   "M Zeeshan",
+   "Saud Satti"
+  ],
+  "year": "2025"
+ },
+ "2603.03637": {
+  "title": "Image-based Prompt Injection: Hijacking Multimodal LLMs through Visually Embedded Adversarial Instructions",
+  "authors": [
+   "Neha Nagaraja",
+   "Lan Zhang",
+   "Zhilong Wang",
+   "Bo Zhang",
+   "Pawan Patil"
+  ],
+  "year": "2026"
+ },
+ "2603.28013": {
+  "title": "Kill-Chain Canaries: Stage-Level Tracking of Prompt Injection Across Attack Surfaces and Model Safety Tiers",
+  "authors": [
+   "Haochuan Kevin Wang",
+   "Zechen Zhang"
+  ],
+  "year": "2026"
+ },
+ "2605.28999": {
+  "title": "Measuring Real-World Prompt Injection Attacks in LLM-based Resume Screening",
+  "authors": [
+   "Mohan Zhang",
+   "Yuqi Jia",
+   "Zhen Tan",
+   "Steven Jiang",
+   "Neil Zhenqiang Gong",
+   "Tianlong Chen",
+   "Dawn Song"
+  ],
+  "year": "2026"
+ },
+ "2607.21617": {
+  "title": "Do VLMs Read or Rewrite? On Transcription Faithfulness in Vision-Language Models",
+  "authors": [
+   "Gwang Gook Lee",
+   "Kenan Emir Ak",
+   "Jay Mohta",
+   "Yan Xu",
+   "Dimitrios Dimitriadis"
+  ],
+  "year": "2026"
+ },
+ "2505.18333": {
+  "title": "A Critical Evaluation of Defenses against Prompt Injection Attacks",
+  "authors": [
+   "Yuqi Jia",
+   "Zedian Shao",
+   "Yupei Liu",
+   "Jinyuan Jia",
+   "Dawn Song",
+   "Neil Zhenqiang Gong"
+  ],
+  "year": "2025"
+ },
+ "2507.22304": {
+  "title": "Invisible Injections: Exploiting Vision-Language Models Through Steganographic Prompt Embedding",
+  "authors": [
+   "Chetan Pathade"
+  ],
+  "year": "2025"
+ },
+ "2509.10248": {
+  "title": "Prompt Injection Attacks on LLM Generated Reviews of Scientific Publications",
+  "authors": [
+   "Janis Keuper"
+  ],
+  "year": "2025"
+ },
+ "2503.11519": {
+  "title": "Exploring Typographic Visual Prompts Injection Threats in Cross-Modality Generation Models",
+  "authors": [
+   "Hao Cheng",
+   "Erjia Xiao",
+   "Yichi Wang",
+   "Lingfeng Zhang",
+   "Qiang Zhang",
+   "Jiahang Cao",
+   "Kaidi Xu",
+   "Mengshu Sun",
+   "Xiaoshuai Hao",
+   "Jindong Gu",
+   "Renjing Xu"
+  ],
+  "year": "2025"
+ },
+ "2504.14348": {
+  "title": "Manipulating Multimodal Agents via Cross-Modal Prompt Injection",
+  "authors": [
+   "Le Wang",
+   "Zonghao Ying",
+   "Tianyuan Zhang",
+   "Siyuan Liang",
+   "Shengshan Hu",
+   "Mingchuan Zhang",
+   "Aishan Liu",
+   "Xianglong Liu"
+  ],
+  "year": "2025"
+ },
+ "2508.20863": {
+  "title": "Misleading Large Language Models used (or misused) in Scientific Peer-Reviewing via Hidden Prompt-Injection Attacks",
+  "authors": [
+   "Matteo Gioele Collu",
+   "Umberto Salviati",
+   "Roberto Confalonieri",
+   "Mauro Conti",
+   "Giovanni Apruzzese"
+  ],
+  "year": "2025"
+ },
+ "2402.00626": {
+  "title": "Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks",
+  "authors": [
+   "Maan Qraitem",
+   "Nazia Tasnim",
+   "Piotr Teterwak",
+   "Kate Saenko",
+   "Bryan A. Plummer"
+  ],
+  "year": "2024"
+ },
+ "2605.28017": {
+  "title": "Can It Reach the Generator? Investigating the Survival of Prompt-Injection Attacks in Realistic RAG Settings",
+  "authors": [
+   "Yu Yin",
+   "Shuai Wang",
+   "Bevan Koopman",
+   "Guido Zuccon"
+  ],
+  "year": "2026"
+ },
+ "2607.19396": {
+  "title": "CrackedPDFs: A Controlled Benchmark for Hidden Prompt Injection in PDFs",
+  "authors": [
+   "Pukaphol Thienpreecha",
+   "Karthik Subramanian"
+  ],
+  "year": "2026"
+ }
+}

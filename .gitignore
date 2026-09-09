@@ -1,0 +1,11 @@
+.env
+.DS_Store
+corpus/png/
+reference/
+Agent Skills/
+node_modules/
+video/node_modules/
+video/out/
+paper/iclr/*.aux
+paper/iclr/*.bbl
+.claude/
