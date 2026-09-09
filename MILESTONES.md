@@ -56,14 +56,27 @@ every checkpoint. RULE: at each CP, STOP and report to the user; wait for approv
   D4 confirmed (furniture catch -0.50*** vs body); P3 end-to-end activation 0.92
 - [ ] **REPORTED TO USER (headline numbers), APPROVAL RECEIVED: ____**
 
-## CP4 · Paper — PENDING
-- [ ] ICLR dual build (anonymous submission + named preprint), figures, 30+ verified refs
-- [ ] Appendix: verbatim prompts, full tables, audited transcript sample
-- [ ] **DELIVERED TO USER, APPROVAL RECEIVED: ____**
+## CP4 · Paper — DONE 2026-09-09
+- [x] ICLR dual build: paper_iclr_preprint.pdf (named) + paper_iclr_submission.pdf
+      (anonymous), 13 pages, title "The Filter is Standing in the Wrong Place"
+- [x] 5 figures (house style, Times, findings annotated) + HTML->Chrome teaser
+- [x] 40 references, all metadata fetched live from arXiv API; 40/40 citekeys resolve,
+      0 undefined, 0 unused
+- [x] Appendix: verbatim prompts + canaries, full placement/degradation tables, 9-test
+      BH family, audit note, cost
+- [x] D4 mechanism corrected during writing: furniture evasion is transmission-mediated,
+      not filter bias (catch 98-100% given transmission) — reported as a corrected
+      mechanism; analyze.py extended (d4_mechanism block)
+- [x] **DELIVERED (user pre-approved CP4+CP5 execution 2026-09-09)**
 
-## CP5 · Publish — PENDING
-- [ ] Public repo (.env verified absent), Pages site, film (Matilda, animated, -14 LUFS),
-      3 flat-chart GIFs
+## CP5 · Publish — IN PROGRESS 2026-09-09
+- [x] Public repo https://github.com/Abraar237/ocr-prompt-research (.env verified
+      git-ignored before first add; corpus/png excluded as regenerable)
+- [x] Pages site live: https://abraar237.github.io/ocr-prompt-research/ (script-bias
+      aesthetic, story sections, stat grid, GIFs embedded, film slot wired)
+- [x] 3 GIFs, clean flat-chart style (0.2-0.7 MB each): filter-in-the-wrong-place,
+      the-ocr-that-obeys, noise-doesnt-save-you
+- [ ] Film (Matilda XrExE9yKIg1WjnnlVkGX, Remotion, -14 LUFS) — production agent running
 - [ ] **LINKS DELIVERED, APPROVAL RECEIVED: ____**
 
 ## CP6 · Self-review — PENDING
