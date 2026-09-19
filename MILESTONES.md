@@ -1,6 +1,6 @@
 # OCR Injection Defence-Placement · Milestones & Checkpoints
 
-Project brief: MISSION.md. Budget cap: **$30 total** (hard stop $25). Update this file at
+Budget cap: **$30 total** (hard stop $25). Update this file at
 every checkpoint. RULE: at each CP, STOP and report to the user; wait for approval.
 
 ## Pre-registered directions (recorded BEFORE any data collection)
@@ -14,8 +14,7 @@ every checkpoint. RULE: at each CP, STOP and report to the user; wait for approv
       body placement.  Recorded: 2026-09-09
 
 ## CP1 · Lit review + pre-emption — DONE 2026-09-08, awaiting approval
-- [x] Angle agents (A placement, B attacks, C defences, D VLM-OCR, E recency) + predecessor
-      methods extraction -> lit_review/lit_review.csv (71 unique verified arXiv ids)
+- [x] Angle agents (A placement, B attacks, C defences, D VLM-OCR, E recency) -> lit_review/lit_review.csv (71 unique verified arXiv ids)
 - [x] Full-text pre-emption reads on 5 nearest neighbors -> lit_review/preemption_fulltext.md
       (Self-Healing OCR ICAART 2026, Kill-Chain Canaries 2603.28013, CrackedPDFs 2607.19396,
       Can It Reach the Generator 2605.28017, QPAIN 4D taxonomy [paywalled, abstract-verified])
@@ -70,17 +69,22 @@ every checkpoint. RULE: at each CP, STOP and report to the user; wait for approv
 - [x] **DELIVERED (user pre-approved CP4+CP5 execution 2026-09-09)**
 
 ## CP5 · Publish — IN PROGRESS 2026-09-09
-- [x] Public repo https://github.com/Abraar237/ocr-prompt-research (.env verified
+- [x] Public repo (original public repository) (.env verified
       git-ignored before first add; corpus/png excluded as regenerable)
-- [x] Pages site live: https://abraar237.github.io/ocr-prompt-research/ (script-bias
-      aesthetic, story sections, stat grid, GIFs embedded, film slot wired)
+- [x] Pages site live: (GitHub Pages from docs/; story sections, stat grid, GIFs embedded, film slot wired)
 - [x] 3 GIFs, clean flat-chart style (0.2-0.7 MB each): filter-in-the-wrong-place,
       the-ocr-that-obeys, noise-doesnt-save-you
-- [ ] Film (Matilda XrExE9yKIg1WjnnlVkGX, Remotion, -14 LUFS) — production agent running
+- [x] Film live: 2:45, 1080p60 Remotion, Matilda narration, -14.2 LUFS integrated,
+      12.3 MB, phrase-anchored scenes, QA frame check passed
 - [ ] **LINKS DELIVERED, APPROVAL RECEIVED: ____**
 
-## CP6 · Self-review — PENDING
-- [ ] a-star-reviewer scores + calibrated P(accept) + effort-ranked fix list reported
+## CP6 · Self-review — DONE 2026-09-19
+- [x] a-star-reviewer scores + calibrated P(accept) + effort-ranked fix list reported
+      -> REVIEW.md: R1 rigor 5, R2 novelty 4, R3 clarity/impact 5; avg 4.67; ICLR band
+      4.5-5.0 = 18.7% historical accept. Top issues: tautological headline, unproven
+      deployment premise, no adaptive attacker, single filter, single VLM family
+- [x] Student handoff written -> HANDOFF.md (roadmap in 4 phases), README.md rewritten with
+      setup + paper build, requirements.txt, .env.example
 
 ## Spend log
 | Date | Item | Amount | Running total |

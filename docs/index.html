@@ -95,19 +95,17 @@
 <nav><div class="navin">
   <span class="navtitle">OCR injection &middot; defence placement</span>
   <a href="#film">Film</a><a href="#reproduce">Data &amp; code</a>
-  <a class="pill" href="paper.pdf">Paper (PDF)</a>
+  <a class="pill" href="paper_anonymous.pdf">Paper (PDF)</a>
 </div></nav>
 
 <div class="wrap">
-<div class="eyebrow">Vizuara Research &middot; LLM security &middot; September 2026</div>
+<div class="eyebrow">LLM security &middot; September 2026</div>
 <h1>The Filter is Standing in the Wrong Place</h1>
 <div class="subtitle">Measuring prompt-injection defence placement across the OCR boundary in document pipelines.</div>
 <div class="dek">Your injection filter isn't weak. It catches almost everything it sees.
 It just never sees the document — because it runs before the OCR output re-enters the model.</div>
 <div class="byline">
-  <b>Mohammed Abraar</b><span class="dot">&middot;</span>Vizuara Research
-  <span class="dot">&middot;</span><a href="mailto:abraar@vizz.vizuara.ai">abraar@vizz.vizuara.ai</a>
-  <span class="dot">&middot;</span>708 document variants<span class="dot">&middot;</span>5,305 API calls
+  708 document variants<span class="dot">&middot;</span>5,305 API calls
   <span class="dot">&middot;</span>total compute cost $6.75
 </div>
 
@@ -268,8 +266,7 @@ overlap our payload space, so its absolute catch rates are optimistic. Canary ac
 is a proxy for harm, not a demonstration of it — by design.</p>
 
 <h2 id="reproduce">10. Paper, data, and code</h2>
-<p>The paper (<a href="paper.pdf">named preprint</a> &middot;
-<a href="paper_anonymous.pdf">anonymous build</a>) reports the full factorial, the
+<p>The paper (<a href="paper_anonymous.pdf">PDF</a>) reports the full factorial, the
 9-test BH family, and verbatim prompts. The repository contains the frozen corpus
 generator with hash manifest, the resume-safe runners, every raw API record (JSONL), the
 single <code>analyze.py</code> that produces every number above, and the audited
@@ -282,9 +279,8 @@ capability beyond the published literature — they tell defenders where an exis
 defence class must sit.</p></div>
 
 <footer>
-  <div><b>The Filter is Standing in the Wrong Place</b> &mdash; Mohammed Abraar, Vizuara Research, 2026.</div>
-  <div><a href="https://github.com/Abraar237/ocr-prompt-research">github.com/Abraar237/ocr-prompt-research</a>
-  &middot; <a href="paper.pdf">paper</a> &middot; <a href="#film">film</a></div>
+  <div><b>The Filter is Standing in the Wrong Place</b> &mdash; 2026.</div>
+  <div><a href="paper_anonymous.pdf">paper</a> &middot; <a href="#film">film</a></div>
 </footer>
 </div>
 </body>

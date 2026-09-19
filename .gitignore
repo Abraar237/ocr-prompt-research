@@ -9,3 +9,13 @@ video/out/
 paper/iclr/*.aux
 paper/iclr/*.bbl
 .claude/
+# personal / identifying files kept local only
+MISSION.md
+lit_review/predecessor_methods.md
+docs/paper.pdf
+paper/iclr/paper_iclr_preprint.pdf
+paper/iclr/*.log
+paper/iclr/*.blg
+experiments/run.log
+video/render*.log
+__pycache__/

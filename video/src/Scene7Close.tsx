@@ -211,9 +211,9 @@ export const Scene7: React.FC<{t: number}> = ({t}) => {
           }}
         >
           <div style={{fontFamily: SERIF, fontSize: 44, color: C.ink, fontWeight: 700, letterSpacing: '0.04em'}}>
-            Vizuara Research
+            Your Lab or Affiliation
           </div>
-          <div style={{fontFamily: SERIF, fontSize: 34, color: C.slate, marginTop: 14}}>research.vizuara.ai</div>
+          <div style={{fontFamily: SERIF, fontSize: 34, color: C.slate, marginTop: 14}}>your-project-site.example</div>
         </div>
       ) : null}
     </AbsoluteFill>

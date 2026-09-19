@@ -1,0 +1,8 @@
+pillow
+jiwer
+langdetect
+numpy
+pandas
+scipy
+statsmodels
+matplotlib

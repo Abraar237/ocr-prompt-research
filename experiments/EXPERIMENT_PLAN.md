@@ -1,5 +1,5 @@
 # EXPERIMENT PLAN (frozen at CP2) — Defence Placement Across the OCR Boundary
-Date frozen: 2026-09-09. Author: Mohammed Abraar. Status: awaiting CP2 approval.
+Date frozen: 2026-09-09. Status: awaiting CP2 approval.
 Security framing: defensive measurement; benign canaries only; all pipelines are local testbeds.
 
 ## 1. Research questions (from MISSION §1)
